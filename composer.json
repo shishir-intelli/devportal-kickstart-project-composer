@@ -35,7 +35,7 @@
     "drupal/core-project-message": "^10",
     "drupal/core-recommended": "^10",
     "drupal/google_analytics": "^4.0",
-    "drupal/jsonapi_extras": "^3.23",
+    "drupal/jsonapi_extras": "^3.25",
     "drupal/smtp": "^1.2",
     "furf/jquery-ui-touch-punch": "dev-master",
     "drupal/adminimal_admin_toolbar": "^1.0@dev"
@@ -100,7 +100,7 @@
           "Fix for TypeError: FieldTypePluginManager::createFieldItem() called in FieldStorageConfig.php":"https://www.drupal.org/files/issues/2024-05-27/field-typeerror-3450175-3.patch"
       },
       "drupal/jsonapi_extras":{
-          "JSON APIS EXTRAS BULK PATCH": "https://www.drupal.org/files/issues/2020-02-20/add-enable-disable-all-buttons--2896799--10.patch",
+          "JSON APIS EXTRAS BULK PATCH": "https://www.drupal.org/files/issues/2024-06-07/add-enable-disable-all-buttons--2896799--32.patch",
           "Jsonapi_extra installation issue due to 3042467-50.patch": "https://github.com/apigee/apigee-devportal-kickstart-drupal/files/9189452/patch.569-1.txt"
       }
     },
